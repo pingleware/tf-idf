@@ -4,7 +4,7 @@
   "description": "TF-IDF for extracting topic sentences from content",
   "homepage": "https://github.com/pingleware/tf-idf",
   "repository": {
-    "url": "https://github.com/pingleware/tf-idf.git",
+    "url": "git+https://github.com/pingleware/tf-idf.git",
     "type": "git"
   },
   "bugs": {
@@ -20,16 +20,15 @@
   ],
   "author": "PressPage Entertainment Inc DBA PINGLEWARE <presspage.entertainment@gmail.com> (https://pingleware.com)",
   "maintainers": [
-    {
-      "name": "Patrick Ingle",
-      "email": "me@patrickingle.info",
-      "url": "https://patrickingle.info"
-    }
+    "Patrick Ingle <me@patrickingle.info> (https://patrickingle.info)"
   ],
-  "license": "cc-by-4.0",
+  "license": "CC-BY-4.0",
   "private": false,
   "engines": {
     "node": ">=6.0.0"
   },
-  "engineStrict": true
+  "engineStrict": true,
+  "directories": {
+    "test": "test"
+  }
 }
