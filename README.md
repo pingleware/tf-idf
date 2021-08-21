@@ -61,3 +61,11 @@ The best contact method is via email at presspage.entertainment@gmail.com
 
 # License
 Creative Commons Attribution 4.0
+
+# Creating and Publishing an NPM package
+An important discovery when publishing a new package, a dist-tag must be created with the identifier of 'stable' attached,
+
+    npm dist-tag add @presspage/tf-idf@1.0.2 stable
+
+otherwise, when a user installs your package, the files are not pulled down to the node_modules directory.
+
