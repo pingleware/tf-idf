@@ -1,6 +1,6 @@
 {
   "name": "@presspage/tf-idf",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "TF-IDF for extracting topic sentences from content",
   "homepage": "https://github.com/pingleware/tf-idf",
   "repository": {
