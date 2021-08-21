@@ -26,7 +26,7 @@
       "url": "https://patrickingle.info"
     }
   ],
-  "license": "ISC",
+  "license": "cc-by-4.0",
   "private": false,
   "engines": {
     "node": ">=6.0.0"

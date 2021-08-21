@@ -203,7 +203,4 @@ function TFIDF(documents) {
     return [max_sentence, max2Sent, max3Sent];
 }
 
-exports = {
-    stopwords: stopwords,
-    TFIDF: TFIDF
-}
+module.exports = { stopwords, TFIDF };
