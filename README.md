@@ -48,11 +48,11 @@ Once you have your new content and checked for plagarism, you can create audio v
 Next, you can create a video using your audio voice on Canva at https://canva.com
 
 # Additional Help Videos
-
+## How To Use AI Writing Assistants To Write YouTube Video Scripts - You Never Need To Write Again!
 [![How To Use AI Writing Assistants To Write YouTube Video Scripts - You Never Need To Write Again!](https://i.ytimg.com/an_webp/mEsrypAuz_M/mqdefault_6s.webp?du=3000&sqp=CPCngokG&rs=AOn4CLBO_N3gXTCgcyPnUvL2vlOGw1NE8g)](https://www.youtube.com/watch?v=mEsrypAuz_M)
-
+## How to Create Human-Like Voiceovers With an A.I. Software In Minutes (YouTube + WellSaid Tutorial)
 [![How to Create Human-Like Voiceovers With an A.I. Software In Minutes (YouTube + WellSaid Tutorial)](https://i.ytimg.com/an_webp/t1Mx7hhieeM/mqdefault_6s.webp?du=3000&sqp=COSzgokG&rs=AOn4CLADS7c67rA78pDhNQvf-yMwujFhTA)](https://www.youtube.com/watch?v=t1Mx7hhieeM)
-
+## How To Create HD Videos With Canva For Free - The Best Online Video Editing Software For Beginners!
 [![How To Create HD Videos With Canva For Free - The Best Online Video Editing Software For Beginners!](https://i.ytimg.com/an_webp/MVB_jVApWH8/mqdefault_6s.webp?du=3000&sqp=COapgokG&rs=AOn4CLCU4rApC55LO9RDoMlyv9EXBwP_lQ)](https://www.youtube.com/watch?v=t1Mx7hhieeM)
 
 
